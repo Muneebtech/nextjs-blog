@@ -19,7 +19,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Motivated and dedicated web developer having expertise in MERN Stack Development. A result-oriented professional with good communication, analytical, and coordination skills.</p>
+        <p>I am Muhammad Muneeb Tahir. A Motivated and dedicated web developer having expertise in MERN Stack Development. A result-oriented professional with good communication, analytical, and coordination skills.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
